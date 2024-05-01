@@ -8,7 +8,7 @@ Convolutional Neural Networks can be computationally expensive. Make sure that y
 
 ----------------------------------------------------------------------------------------------------------------------
 
-After downloading the repository, change base_dir to the location of where the repo was extracted to. Make sure to either use r'C:\path_to_base' or 'C:\\path_to_base' format for the path declaration.
+After downloading the repository, change base_dir to the location of where the repo was extracted to. Make sure to either use r'C:\path_to_base' or 'C: \\\ path_to_base' format for the path declaration.
 
 The code will generate the overlaid images and augmented dataset in the MouseNeuroImages folder. The code will process records from the Capstne_histology_data.xlsx sheet.
 
